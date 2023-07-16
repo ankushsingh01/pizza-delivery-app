@@ -16,7 +16,7 @@
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
 
   },
-  "author": "techinfo yt",
+  "author": "Ankush",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
